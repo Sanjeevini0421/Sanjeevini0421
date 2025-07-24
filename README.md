@@ -21,9 +21,7 @@ I am **Sanjeevini**, a passionate **Data Science and Full Stack Developer, and S
 - 🧠 Learning: **AI, React and Java**  
 - 🤝 Open to **collaborations and contributions**  
 
----
 
-## 🛠️ Skills
 
 ### 🚀 Languages & Tools
 <p align="center">
