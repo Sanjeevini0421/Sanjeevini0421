@@ -12,7 +12,7 @@
 
 # 🧑‍💻 About Me
 
-I am **Sanjeevini**, a passionate **Data Science and Full Stack Developer, and Software Engineer**. I love building intelligent systems, scalable applications, and solving complex problems with cutting-edge technologies.  
+I am **Sanjeevini**, a passionate **Data Science, Full Stack Developer, and Software Engineer**. I love building intelligent systems, scalable applications, and solving complex problems with cutting-edge technologies.  
 
 > _"Transforming data into decisions. Code into solutions. Problems into progress."_
 
