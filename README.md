@@ -25,7 +25,7 @@ I am **Sanjeevini**, a passionate **Data Science, Full Stack Developer, and Soft
 
 ### 🚀 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,html,css,react,nextjs,nodejs,express,flask,django,mongodb,mysql,firebase,sqlite,tensorflow,pytorch,docker,kubernetes,git,github,aws,gcp,azure,bash,postman,vscode,pycharm" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,html,css,react,nextjs,nodejs,express,flask,django,mongodb,mysql,sqlite,tensorflow,git,github,azure,bash,postman,vscode,pycharm" />
 </p>
 
 ## 📫 Connect with Me         
