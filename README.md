@@ -18,7 +18,7 @@ I am **Sanjeevini**, a passionate **Data Science, Full Stack Developer, and Soft
 
 - 🌍 Based in **India**    
 - ✉️ Email: [anklrsanjeevini21@gmail.com](mailto:anklrsanjeevini21@gmail.com)  
-- 🧠 Learning: **AI, React and Java**  
+- 🧠 Learning: **Python, Java and AI**  
 - 🤝 Open to **collaborations and contributions**  
 
 
